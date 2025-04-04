@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inknut Antiqua';
+}
+body{
+    margin-top: -20px;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    margin: 20px 0;
+    font-size: 2.5rem; 
+}
+p{
+    font-size: 0.8rem;
+    margin: 10px 0;
+    margin: 0 95px;
+}
+header{
+    background-color: hsla(0, 0%, 93%, 0.644);
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+img{
+    margin-top: 45px;
+}
+header{
+    background-color: hsla(0, 0%, 93%, 0.644);
+}
